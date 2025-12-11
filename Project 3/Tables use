@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+        <title> Tables of Fruits</title>
+    </head>
+    <body>
+        <h1>Talbes of Friuts</h1>
+            <tables borders="Spx">
+                <tr>
+                    <th> Fruit </th>
+                    <th> Codes </th>
+                </tr>
+                <tr>
+                    <th> Apple </th>
+                    <th> de43438</th>
+                </tr>
+                <tr>
+                    <th> Banana</th>
+                    <th> nh56432 </th>
+                </tr>
+                <tr>
+                    <th> Orange </th>
+                    <th> vava43#99 </th>
+                </tr>
+                <tr> 
+                    <th> Starfruit</th>
+                    <th>ss4334(())</th>
+                </tr>
+            </tables>
+    </body>
+</html>
+                    
+            
